@@ -1,0 +1,8 @@
+{
+  "name": "crypto-payment-gateway-evm",
+  "version": "1.0.0",
+  "description": "Merchant payment processor for EVM chains",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
